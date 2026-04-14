@@ -1,5 +1,6 @@
 This is a work in progress. The prototype has not confirmed to work or function well yet.
 This module is designed with 48v VIN in mind, but can be used for  any voltages lower, the inductor can be calculated for every scenario using https://www.schemalyzer.com/en/tools/buck-converter-calculator.
+Default operation frequency is 1.2Mhz but can be lowered to 600KHz for lower heat if space allows.
 This design uses a 4 layer PCB which is very affordable at JLCPCB as long as the inner layers are 0.5oz. 
 
 The module requires a 300uf~ bulk cap (perferrabily polymer) close to  VIN on the main PCB. 
