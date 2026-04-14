@@ -3,7 +3,7 @@ This module is designed with 48v VIN in mind, but can be used for  any voltages 
 Default operation frequency is 1.2Mhz but can be lowered to 600KHz for lower heat if space allows.
 This design uses a 4 layer PCB which is very affordable at JLCPCB as long as the inner layers are 0.5oz. 
 
-The module requires a 300uf~ bulk cap (perferrabily polymer) close to  VIN on the main PCB. 
+The module requires a 300uf~ bulk cap (perferrabily polymer) close to  VIN on the main PCB. Ensure the area under the module is grounded to reduce EMI if possible.
 
 <img width="1813" height="1238" alt="image" src="https://github.com/user-attachments/assets/92cbdb21-c4f5-47c0-8428-9e1179dfd525" />
 
