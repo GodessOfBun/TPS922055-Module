@@ -60,7 +60,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "missing_courtyard|151951597|81775384|f334c4b9-131a-44fd-8319-741ec2cfd94a|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -723,7 +728,7 @@
         "uuid": "ffaea1c6-1da5-4286-bc04-4e59223b546a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J1,#PWR24-25,C41",
     "variants": []
   },
   "sheets": [
