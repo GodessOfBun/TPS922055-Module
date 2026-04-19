@@ -1,5 +1,7 @@
 ### If you find this project helpful please consider buying me coffee
+<a href="https://ko-fi.com/ameliabun">
 <img width="56" height="56" alt="KofiRainbowMug_56" src="https://github.com/user-attachments/assets/bc97fb75-c19d-4fdd-86b4-e81835272c36" />
+</a>
 </br>
 </br>
 This is a work in progress. The prototype has not confirmed to work or function well yet.
